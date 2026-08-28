@@ -20,7 +20,7 @@ bool helper(vector<int>&bloonDay,int days, int m,int k)
     return boquets >= m;
 }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        long long j = m*k;
+        l
         if( bloomDay.size() < j) return -1;
         int low = *min_element(bloomDay.begin(),bloomDay.end());
         int high = *max_element(bloomDay.begin(),bloomDay.end());
