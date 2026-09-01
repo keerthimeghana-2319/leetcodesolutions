@@ -1,6 +1,6 @@
 # 📝 1109. Corporate Flight Bookings (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/corporate-flight-bookings/)
+🔗 [Problem Link](https://leetcode.com/problems/corporate-flight-bookings)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
