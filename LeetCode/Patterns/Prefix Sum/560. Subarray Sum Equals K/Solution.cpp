@@ -11,12 +11,12 @@ public:
             prefixSum += num;
 
             if (freq.find(prefixSum - k) != freq.end()) {
-                count += freq[prefixSum - k];
+                count ++;
             }
 
             freq[prefixSum]++;
         }
 
-        return count;
+        return count; 
     }
 };
