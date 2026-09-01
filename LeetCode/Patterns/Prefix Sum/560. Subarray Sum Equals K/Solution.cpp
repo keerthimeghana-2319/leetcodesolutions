@@ -17,6 +17,6 @@ public:
             freq[prefixSum]++;
         }
 
-        return count;
+        return count; 
     }
 };
