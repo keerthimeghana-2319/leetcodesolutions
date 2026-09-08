@@ -11,6 +11,7 @@ public:
         {
             temp += s2[i];
         }
+        string 
         if(temp == s1)
         {
             return true;
