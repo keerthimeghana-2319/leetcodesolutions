@@ -3,7 +3,6 @@ public:
     bool checkInclusion(string s1, string s2) {
         int n2 = s2.size();
         int n1 = s1.size();
-        reverse(s1.begin(),s1.end());
         int l = 0;
         int r = l+n1;
         string temp = "";
@@ -11,8 +10,9 @@ public:
         {
             temp += s2[i];
         }
-        string 
-        if(temp == s1)
+        string check = temp;
+        sort(check.begin(),check.end());
+        if(check == s1)
         {
             return true;
         }
@@ -22,7 +22,9 @@ public:
             l++;
             temp += s2[r];
             r++;
-            if(temp == s1)
+            check = temp;
+            sort(check.begin(),check.end());
+            if(check == s1)
             {
                 return true;
             }
