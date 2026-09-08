@@ -3,7 +3,7 @@ public:
     bool checkInclusion(string s1, string s2) {
         int n2 = s2.size();
         int n1 = s1.size();
-        if(n)
+        if(n1 > n2) return false;
         sort(s1.begin(),s1.end());
         int l = 0;
         int r = l+n1;
