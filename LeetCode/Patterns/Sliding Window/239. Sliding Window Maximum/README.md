@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/sliding-window-maximum/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query
 
 ### 🚀 Performance
-- **Runtime:** 182 ms
-- **Memory:** 35.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
