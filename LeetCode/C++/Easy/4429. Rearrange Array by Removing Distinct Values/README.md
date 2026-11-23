@@ -8,8 +8,8 @@
 Array, Hash Table, Sorting, Heap (Priority Queue), Simulation, Counting, Ordered Set
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 10 ms
+- **Memory:** 34.9 MB
 
 ---
 
